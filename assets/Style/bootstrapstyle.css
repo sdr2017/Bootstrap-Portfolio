@@ -16,7 +16,7 @@ body {
 }
 
 [class*="col-"] {
-	padding:20px;
+	padding: 0px 20px 20px 20px;
 }
 
 h2, h3 {
@@ -46,3 +46,30 @@ h2, h3 {
 	text-align: center;
 	line-height: 90px;
 }
+
+/*Portfolio Page */
+
+
+.thumbnail {
+	position: relative;
+	padding: 0px;
+	border: 0px;
+}
+
+.caption {
+	position: absolute;
+	bottom: 25px;
+	color: #fff !important;
+	background-color: #4aaaa5;
+	line-height: 60px;
+	width: 100%;
+	text-align: center;
+}
+
+/* Contact Page */
+
+.textarea {
+	height: 200px;
+}
+
+
