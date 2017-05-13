@@ -68,8 +68,14 @@ h2, h3 {
 
 /* Contact Page */
 
-.textarea {
-	height: 200px;
+.form-control {
+	width: 100%;
+}
+
+
+.btn {
+	background-color: #4aaaa5; 
+	margin-top: 20px;
 }
 
 
