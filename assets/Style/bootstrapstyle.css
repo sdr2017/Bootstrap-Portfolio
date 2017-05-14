@@ -78,4 +78,19 @@ h2, h3 {
 	margin-top: 20px;
 }
 
+@media only screen and (max-width: 768px) {
+ .navbar-brand {
+ 	width: 100%;
+ 	text-align: center;
+ }
+
+ li {
+ 	float: left;
+ 	width: 33.3%;
+ 	text-align: center;
+ }
+
+
+
+}
 
